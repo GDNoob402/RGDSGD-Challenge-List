@@ -1,11 +1,11 @@
 [
     {
-        "role": "owner",GD_Noob
-        "name": "List Owner",GD_Noob
+        "role": "owner",GD_Noob,
+        "name": "List Owner",GD_Noob,
         "link": "https://www.youtube.com/@GD_Noob402"
     },
     {
-        "role": "admin",Squeeg
+        "role": "admin",Squeeg,
         "name": "List Admin",
         "link": "https://www.youtube.com/@squeeg-gaming"
     },
